@@ -13,16 +13,32 @@
 </p>
 
 <p align="center">
+  <!-- GitHub -->
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Profile-0f5132?style=flat&logo=github&logoColor=white" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-b8860b?style=flat&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- Portfolio -->
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-145a32?style=flat&logo=vercel&logoColor=white" />
   </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=flat&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- WhatsApp (bisa pakai wa.me) -->
+  <a href="https://wa.me/628XXXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
