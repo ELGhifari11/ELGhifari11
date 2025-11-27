@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/ELGhifari11">
     <img src="https://img.shields.io/badge/GitHub-Profile-0f5132?style=flat&logo=github&logoColor=white" />
   </a>
 
@@ -24,17 +24,17 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://yourwebsite.com">
+  <a href="https://elfiolio.my.id">
     <img src="https://img.shields.io/badge/Portfolio-Visit-145a32?style=flat&logo=vercel&logoColor=white" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/el.g.11">
     <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=flat&logo=instagram&logoColor=white" />
   </a>
 
   <!-- WhatsApp (bisa pakai wa.me) -->
-  <a href="https://wa.me/628XXXXXXXXXX">
+  <a href="https://wa.me/6289502433722">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -93,8 +93,8 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
 
 ### 📈 GitHub Insights
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark&icon_color=b8860b&title_color=b8860b&text_color=ffffff&bg_color=0f5132&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=vue-dark&hide_border=true&background=0f5132&ring=b8860b&fire=b8860b&currStreakLabel=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ELGhifari11&show_icons=true&theme=vue-dark&icon_color=b8860b&title_color=b8860b&text_color=ffffff&bg_color=0f5132&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ELGhifari11&theme=vue-dark&hide_border=true&background=0f5132&ring=b8860b&fire=b8860b&currStreakLabel=ffffff" width="48%"/>
 
 ---
 
