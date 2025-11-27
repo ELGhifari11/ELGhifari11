@@ -24,7 +24,7 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://elfiolio.my.id">
+  <a href="https://elfolio.my.id">
     <img src="https://img.shields.io/badge/Portfolio-Visit-145a32?style=flat&logo=vercel&logoColor=white" />
   </a>
 
