@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center" style="font-size:15px; color:#145a32;">
-  <em>Software Engineer • Full-Stack & Mobile Developer • Database Architect • Technical Mentor</em>
+  <em>Software Engineer • Full-Stack & Mobile Developer • Technical Mentor</em>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" height="40"/>
 
-  <br/>
+
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=laravel" height="40"/>
@@ -52,20 +52,20 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
 
-  <br/>
+  
 
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
 
-  <br/>
+  
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
 
-  <br/>
+
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
