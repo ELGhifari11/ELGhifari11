@@ -46,7 +46,7 @@
 
 ### 🌙 About Me
 I am a Software Engineer specializing in **system architecture**, **full-stack development**, and **mobile engineering**.  
-I focus on building scalable, impactful, and real-world solutions with a foundation of **clarity, adab, excellence (ihsan)**, and **meaningful benefit**.
+I focus on building scalable, impactful, and real-world solutions with a foundation of **clarity, integrity, excellence (ihsan)**, and **meaningful benefit**.
 
 ---
 
