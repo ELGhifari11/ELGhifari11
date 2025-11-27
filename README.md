@@ -84,8 +84,7 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
 
 ### 🌿 Work Philosophy
 
-<em style="color:#145a32;">
-"Build with clear intention, craft with noble character, and deliver with excellence (Ihsan)."
-</em>
+<em style="color:#145a32;"> "And say, 'Work, for Allah will see your work, and [so will] His Messenger and the believers...' " (QS. At-Tawbah, 9:105) </em>
 
+<em style="color:#145a32;"> "Allah, the Mighty and Majestic, loves that when one of you does a deed, he does it with itqan (thoroughness, totality, and to the best of his ability)." (Hadith of Aishah, declared Hasan by Al-Albani) </em>
 </div>
