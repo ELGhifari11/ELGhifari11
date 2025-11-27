@@ -91,13 +91,6 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
 
 ---
 
-### 📈 GitHub Insights
-
-<img src="https://github-readme-stats.vercel.app/api?username=ELGhifari11&show_icons=true&theme=vue-dark&icon_color=b8860b&title_color=b8860b&text_color=ffffff&bg_color=0f5132&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ELGhifari11&theme=vue-dark&hide_border=true&background=0f5132&ring=b8860b&fire=b8860b&currStreakLabel=ffffff" width="48%"/>
-
----
-
 ### 🌿 Work Philosophy
 
 <em style="color:#145a32;"> "And say, 'Work, for Allah will see your work, and [so will] His Messenger and the believers...' " (QS. At-Tawbah, 9:105) </em>
