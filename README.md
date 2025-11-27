@@ -51,8 +51,7 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
 ---
 
 
-### 🛠 Tech Stack (Icon Edition)
-
+### 🛠 Tech Stack
 <p align="center">
   <!-- Mobile -->
   <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
