@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#0f5132;">
   ﷽
   <br/>
-  <span style="font-size:15px; color:#145a32;">
+  <span style="font-size:13px; color:#145a32; margin-top:15px;">
     <em>Assalamu'alaikum Warahmatullahi Wabarakatuh</em>
   </span>
   <br/><br/>
