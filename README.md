@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center" style="font-size:15px; color:#145a32;">
-  <em>Software Engineer • Full-Stack & Mobile Developer • Technical Mentor</em>
+  <em>Software Engineer • Full-Stack • Technical Mentor</em>
 </p>
 
 <p align="center">
@@ -87,12 +87,3 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
 </p>
-
----
-
-### 🌿 Work Philosophy
-
-<em style="color:#145a32;"> "And say, 'Work, for Allah will see your work, and [so will] His Messenger and the believers...' " (QS. At-Tawbah, 9:105) </em>
-
-<em style="color:#145a32;"> "Allah, the Mighty and Majestic, loves that when one of you does a deed, he does it with itqan (thoroughness, totality, and to the best of his ability)." (Hadith of Aishah, declared Hasan by Al-Albani) </em>
-</div>
