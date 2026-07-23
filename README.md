@@ -66,17 +66,27 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
   <img src="https://skillicons.dev/icons?i=php" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bun" height="40"/>
+  <img src="https://skillicons.dev/icons?i=elysia" height="40"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/hono-6ge6rolcrcsqnvk7r685s.png/hono-lni310gpnzm7h0sumu9xrk.png?_a=DATAiZAAZAA0" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=280&v=4" height="40" alt="Drizzle" />
+  <img src="https://img.icons8.com/fluency/96/security-checked.png" height="40" alt="Better Auth" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" height="40" alt="Swagger" />
 
   
 
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="40"/>
 
   
 
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=next" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
 
@@ -84,6 +94,7 @@ I focus on building scalable, impactful, and real-world solutions with a foundat
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
 </p>
